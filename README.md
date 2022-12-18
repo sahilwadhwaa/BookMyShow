@@ -20,7 +20,7 @@ This complex project has taught me many aspects of the handling of the complete 
 
 Technologies Used- MongoDB, Express.js, React and Node.js
 
-The complete app link :-https://sahilwadhwaa.github.io/BMS-frontend/ 
+The complete app link :-https://sahilwadhwaa.github.io/BMS-Frontend/ 
 The API end point :- https://bms-fullstack.onrender.com/api/booking
 Video Link- https://youtu.be/QrHMSkpWmIQ
 
