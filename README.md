@@ -22,6 +22,6 @@ Technologies Used- MongoDB, Express.js, React and Node.js
 
 The complete app link :-https://sahilwadhwaa.github.io/BMS-Frontend/ 
 The API end point :- https://bms-fullstack.onrender.com/api/booking
-Video Link- https://youtu.be/QrHMSkpWmIQ
+Video Link- https://youtu.be/8Yohldfr9FQ
 
 The API endpoint is the same for POST and GET method.
